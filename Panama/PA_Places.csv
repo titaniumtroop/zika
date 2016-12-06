@@ -88,11 +88,13 @@ Panama-Herrera,province,Panama,Herrera,NA,NA,NA,NA
 Panama-Ngabe_Bugle,province,Panama,Ngabe_Bugle,NA,NA,NA,NA
 Panama-Veraguas,province,Panama,Veraguas,NA,NA,NA,NA
 Panama-Panama_Norte,province,Panama,Panama_Norte,NA,NA,NA,NA
-Panama_Importados,province,Panama,Importados,NA,NA,NA,NA
+Panama-Importados,province,Panama,Importados,NA,NA,NA,NA
 Panama-Panama_Este,province,Panama,Panama_Este,NA,NA,NA,NA
 Panama-Bocas_del_Toro,province,Panama,Bocas_del_Toro,NA,NA,NA,NA
 Panama-Panama_Oeste,province,Panama,Panama_Oeste,NA,NA,NA,NA
 Panama-Los_Santos,province,Panama,Los_Santos,NA,NA,NA,NA
+Panama-Bocas_del_Toro-Bastimento,county,Panama,Bocas_del_Toro,Bastimento,NA,NA,NA
+Panama-Bocas_del_Toro-Bocas_del_Toro,county,Panama,Bocas_del_Toro,Bocas_del_Toro,NA,NA,NA
 Panama-Cocle,province,Panama,Cocle,NA,NA,NA,NA
 Panama-Cocle-Rio_Hato,county,Panama,Cocle,Rio_Hato,NA,NA,NA
 Panama-Colon,province,Panama,Colon,NA,NA,NA,NA
